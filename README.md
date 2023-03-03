@@ -39,7 +39,7 @@ Few of the hypothesis tests are as below:
 ### Hypothesis:
 #### Null: The varieties show similar behavior across Regions and channels
 #### Alternate: The varieties so not show similar behavior across Regions and channels
-####Across Channels:
+#### Across Channels:
 From the above tables, we can see that the varieties Fresh, Milk, Grocery, Frozen and Detergents_Paper do not show similar behavior accross the channels Hotel and Retail, at 95%, 99% and 90% confidence.
 The variety Delicatessen shows similar behavior across the channels.
 #### Accross Regions:
